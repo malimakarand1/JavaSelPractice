@@ -7,6 +7,7 @@ public class MethodsPractice2 {
 		MethodsPractice MethodFromOtherClass= new MethodsPractice();
 		String data=MethodFromOtherClass.getData();
 		System.out.println(data);
+		//comment added
 	}
 
 }
