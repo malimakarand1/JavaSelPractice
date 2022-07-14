@@ -10,11 +10,11 @@ public class JavaBrushUp {
 
 		String website = "malimakarand1.wordpress.com";
 
-		char letter = 'r';
+		//char letter = 'r';
 
-		double dec = 5.99;
+		//double dec = 5.99;
 
-		boolean myCard = true;
+		//boolean myCard = true;
 
 		System.out.println(myNum + "is the value stored in the myNum variable");
 
