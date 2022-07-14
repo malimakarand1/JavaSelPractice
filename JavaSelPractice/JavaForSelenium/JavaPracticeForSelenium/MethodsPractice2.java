@@ -8,6 +8,7 @@ public class MethodsPractice2 {
 		String data=MethodFromOtherClass.getData();
 		System.out.println(data);
 		//comment added
+		//comment deleted
 	}
 
 }
